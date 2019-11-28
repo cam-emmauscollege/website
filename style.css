@@ -1,3 +1,30 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+main {
+    border: 1px black solid;
+    width: 800px;
+    margin: 0px auto;
+    padding: 0px;
+}
+
+article {
+    width: 600px;
+    float: left;
+    background-color: gold;
+}
+
+aside {
+    background-color: silver;
+}
+
+footer {
+    clear: both;
+}
+
+
 h1 {
   color: red;
 }
